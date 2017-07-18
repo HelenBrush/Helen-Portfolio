@@ -1,0 +1,10 @@
+img{width:300px;}
+h1{font-family: "Arial";
+color:blue;}
+ol,h1{text-align:center;}
+    
+    img{border:40px solid;
+    color:gray;
+    padding: 30px;
+    margin: 20px;
+        }
