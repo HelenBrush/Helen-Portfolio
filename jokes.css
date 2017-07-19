@@ -1,0 +1,33 @@
+body{
+    margin-bottom: 100px;
+}
+
+div{
+    font-size: 2em;
+}
+
+#button1{
+    width:40px;
+    height:20px;
+    background-color:green;
+    float:right;
+    vertical-align:center;}
+    
+#button2{
+      width:40px;
+    height:20px;
+    background-color:red;
+    float:right;}
+    
+#button3{
+      width:40px;
+    height:20px;
+    background-color:purple;
+    float:right;}
+    
+#button4{
+    width:40px;
+    height:20px;
+    background-color:blue;
+    float:right;
+    }
