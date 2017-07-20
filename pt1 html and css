@@ -1,0 +1,23 @@
+#blank{
+    height:1000px;
+    width:10px;
+}
+
+#box{
+    width:700px;
+    height:900px;
+    background:#397fa8;
+    margin:auto;
+    border: 10px solid gray;
+}
+
+HTML<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <div id="blank"></div>
+        <div id="box"></div>
+    </body>
+</html>
