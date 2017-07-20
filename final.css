@@ -41,3 +41,51 @@
     font-weight:bold;
     font-family:"helvetica";
 }
+
+#milkweedimg{
+    width:170px;
+    Position: absolute;
+    border-radius:6px;
+    border:0px;
+    padding:0px;
+    margin:0px;
+    border:10px solid black;
+}
+
+#milkweedimg:hover{
+    opacity:0.25;}
+
+#milkweed{
+    position:absolute;
+    top:140px;
+    left:700px;
+    font-size:20px;
+    font-weight:bold;
+    font-family:"helvetica";
+}
+
+#blackeyedimg{
+    width:170px;
+    Position: absolute;
+    border-radius:6px;
+    border:0px;
+    padding:0px;
+    margin:0px;
+    border:10px solid black;
+}
+
+#blackeyedimg:hover{
+    opacity:0.25;}
+
+#blackeyed{
+    position:absolute;
+    top:140px;
+    left:950px;
+    font-size:20px;
+    font-weight:bold;
+    font-family:"helvetica";
+}
+
+body{
+    background-image: url("https://ak8.picdn.net/shutterstock/videos/63979/thumb/1.jpg?i10c=img.resize(height:160)");
+    }
