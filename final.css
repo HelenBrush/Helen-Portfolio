@@ -1,0 +1,43 @@
+#beebalmimg{
+    width:200px;
+    Position: absolute;
+    border-radius:6px;
+    border:0px;
+    padding:0px;
+    margin:0px;
+    border: 10px solid black;
+}
+
+#beebalmimg:hover{
+    opacity:0.25;}
+
+#beebalm{
+    position:absolute;
+    top:140px;
+    left:100px;
+    font-size:20px;
+    font-weight:bold;
+    font-family:"helvetica";
+}
+
+#indianimg{
+    width:229px;
+    Position: absolute;
+    border-radius:6px;
+    border:0px;
+    padding:0px;
+    margin:0px;
+    border:10px solid black;
+}
+
+#indianimg:hover{
+    opacity:0.25;}
+
+#indiangrass{
+    position:absolute;
+    top:140px;
+    left:400px;
+    font-size:20px;
+    font-weight:bold;
+    font-family:"helvetica";
+}
