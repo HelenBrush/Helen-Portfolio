@@ -1,3 +1,4 @@
+
 #blank{
     height:500px;
     width:10px;
@@ -24,6 +25,7 @@
     font-size:40px;
 }
 
-body{background-image: url("https://mail.google.com/mail/u/0/?ui=2&ik=21b75b9a14&view=att&th=15d5d797e8daa16f&attid=0.6&disp=safe&realattid=f_j5bpzp7u5&zw");
+body{background-image: url("https://mail.google.com/mail/u/0/?ui=2&ik=21b75b9a14&view=att&th=15d5d797e8daa16f&attid=0.1&disp=safe&realattid=f_j5bpvwov0&zw");
 background-attachment:fixed;
+background-position:center;
 }
