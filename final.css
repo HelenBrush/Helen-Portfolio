@@ -15,7 +15,7 @@
     position:absolute;
     top:140px;
     left:100px;
-    font-size:20px;
+    font-size:18px;
     font-weight:bold;
     font-family:"helvetica";
 }
@@ -37,19 +37,19 @@
     position:absolute;
     top:140px;
     left:400px;
-    font-size:20px;
+    font-size:18px;
     font-weight:bold;
     font-family:"helvetica";
 }
 
 #milkweedimg{
-    width:170px;
+    width:180px;
     Position: absolute;
     border-radius:6px;
     border:0px;
     padding:0px;
     margin:0px;
-    border:10px solid black;
+    border:12px solid black;
 }
 
 #milkweedimg:hover{
@@ -59,7 +59,7 @@
     position:absolute;
     top:140px;
     left:700px;
-    font-size:20px;
+    font-size:16px;
     font-weight:bold;
     font-family:"helvetica";
 }
@@ -71,7 +71,7 @@
     border:0px;
     padding:0px;
     margin:0px;
-    border:10px solid black;
+    border:12px solid black;
 }
 
 #blackeyedimg:hover{
@@ -86,6 +86,100 @@
     font-family:"helvetica";
 }
 
+#coneflowerimg{
+    width:200px;
+    Position: absolute;
+    border-radius:6px;
+    border:0px;
+    padding:0px;
+    margin:0px;
+    border:10px solid black;
+}
+
+#coneflowerimg:hover{
+    opacity:0.25;}
+
+#coneflower{
+    position:absolute;
+    top:350px;
+    left:100px;
+    font-size:20px;
+    font-weight:bold;
+    font-family:"helvetica";   
+}
+
+#columbineimg{
+    width:190px;
+    Position: absolute;
+    border-radius:6px;
+    border:0px;
+    padding:0px;
+    margin:0px;
+    border:10px solid black;
+}
+
+#columbineimg:hover{
+    opacity:0.25;}
+
+#columbine{
+    position:absolute;
+    top:350px;
+    left:420px;
+    font-size:20px;
+    font-weight:bold;
+    font-family:"helvetica";   
+}
+
+#thimbleweedimg{
+    width:150px;
+    Position: absolute;
+    border-radius:6px;
+    border:0px;
+    padding:0px;
+    margin:0px;
+    border:10px solid black;
+}
+
+#thimbleweedimg:hover{
+    opacity:0.25;}
+
+#thimbleweed{
+    position:absolute;
+    top:350px;
+    left:710px;
+    font-size:20px;
+    font-weight:bold;
+    font-family:"helvetica";   
+}
+
+#noddingimg{
+    width:165px;
+    Position: absolute;
+    border-radius:6px;
+    border:0px;
+    padding:0px;
+    margin:0px;
+    border:10px solid black;
+}
+
+#noddingimg:hover{
+    opacity:0.25;}
+
+#nodding{
+    position:absolute;
+    top:350px;
+    left:950px;
+    font-size:20px;
+    font-weight:bold;
+    font-family:"helvetica";   
+}
 body{
     background-image: url("https://ak8.picdn.net/shutterstock/videos/63979/thumb/1.jpg?i10c=img.resize(height:160)");
     }
+    
+#wetmeadow{
+    position:absolute;
+    bottom: 10px;
+    left:40%;
+    width:400px;
+}
